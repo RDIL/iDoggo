@@ -9,7 +9,7 @@ setuptools.setup(
     version="1.0.0",
     author="RDIL",
     author_email="contactspaceboom@gmail.com",
-    description="",
+    description="Text dog library in Python!",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/RDIL/iDoggo",
