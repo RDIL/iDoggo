@@ -1,5 +1,11 @@
 # ~ iDoggo Package by RDIL ~ 
 
+# Package info variables: 
+name = "iDoggo"
+author = "https://github.com/RDIL"
+author_email = "contactspaceboom@gmail.com"
+description = "Text dog library on PyPI!"
+
 def dog1():
   print("hyyyyhhhhdddhhhhhhyyyyssssssssssooooo++++++++++++++++oooooo+++++++/////::://///++++++++++++/////++++")
   print("yysssyyyyhhhyyyyssssssssooooooo+++++//////////////++/++++++++//++/////::::://///////++++++++++++++++")
@@ -145,3 +151,10 @@ def dog2():
   print("---::::////+++/-.``````````.-::::::::::::::::::::::::::::::::::///:.``````....-/ssssooo+++//////+++/")
   print("----::::////+++:.`````....-:///:::::::/:::/:::::::///::://::::///:.`````````..-/ossso++++++/////////")
   print("..----::::///+o+/-----://////////////////++//////////////////////:-.````````..-:+ysso+++/++/////////")
+
+def packageInfo():
+  info = f"Name: {name}"
+  info += f"\nAuthor: {author}"
+  info += f"\nAuthor Email: {author_email}"
+  info += f"\nDescription: {description}"
+  return info
