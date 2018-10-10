@@ -22,7 +22,7 @@ iDoggo.dog1()
 # Print dog #2:  
 iDoggo.dog2()  
 
-# Returns package info:  
-iDoggo.packageInfo()
+# Get package info:  
+print(iDoggo.packageInfo())
 ```  
 And that should work.  Make sure to visit our [Issue Tracker](https://github.com/RDIL/iDoggo/issues) if you find any bugs!  
