@@ -1,0 +1,10 @@
+/ Changelog \  
+
+Version 1.0.1:
+* Update readme docs
+* Added changelog
+* Added link to docs on PyPI
+* Added PyPI badge
+
+Version 1.0.0:
+* First release  
