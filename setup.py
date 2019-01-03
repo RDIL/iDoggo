@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="iDoggo",
-    version="1.0.1",
+    version="1.0.2",
     author="RDIL",
-    author_email="contactspaceboom@gmail.com",
+    author_email="me@rdil.rocks",
     description="Text dog library in Python!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/RDIL/iDoggo",
+    url="https://github.com/TheICC/iDoggo",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python",
