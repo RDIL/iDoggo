@@ -6,6 +6,7 @@ author = "https://github.com/RDIL"
 author_email = "contactspaceboom@gmail.com"
 description = "Text dog library on PyPI!"
 
+
 def dog1():
   print("hyyyyhhhhdddhhhhhhyyyyssssssssssooooo++++++++++++++++oooooo+++++++/////::://///++++++++++++/////++++")
   print("yysssyyyyhhhyyyyssssssssooooooo+++++//////////////++/++++++++//++/////::::://///////++++++++++++++++")
@@ -75,6 +76,7 @@ def dog1():
   print("ddddmNNmdddhyysss+:::::::://////+oshmmmmNNMMMMMNy/-------:::::////+shddddddddddmNNNNNmdddmmmNNNNNNMM")
   print("mmdddmmmdddmmmddmy+:::::://////++oshmNNNNNNNNNNh+:-----::::://///+ohddddddmdhhhdmmNNmmNNNmmmmmddmNNN")
 
+  
 def dog2():
   print("mmmmmmmmdddhhhhhyyyyyyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyy")
   print("NNNmmmmmddddhhhhhyyyyyyyysssssssssssssssssssssssssssssssssssssssssssssssssssssssyysssyyyssyyyyyyyyyy")
@@ -152,6 +154,7 @@ def dog2():
   print("----::::////+++:.`````....-:///:::::::/:::/:::::::///::://::::///:.`````````..-/ossso++++++/////////")
   print("..----::::///+o+/-----://////////////////++//////////////////////:-.````````..-:+ysso+++/++/////////")
 
+  
 def packageInfo():
   info = f"Name: {name}"
   info += f"\nAuthor: {author}"
