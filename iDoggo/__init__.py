@@ -8,152 +8,152 @@ description = "Text dog library on PyPI!"
 
 
 def dog1():
-  print("hyyyyhhhhdddhhhhhhyyyyssssssssssooooo++++++++++++++++oooooo+++++++/////::://///++++++++++++/////++++")
-  print("yysssyyyyhhhyyyyssssssssooooooo+++++//////////////++/++++++++//++/////::::://///////++++++++++++++++")
-  print("ssooosossssssssoooooossooo+++++/++///////////////+//////+++++/////////:::://////////++++++++++++oooo")
-  print("ooo+++oooooooooooooosssoo+++///////////////+++//////////////////////////////++++++++++++ooooooooooss")
-  print("+++++++ooo+ooooooosssooo++////////////////++//////////::///////////////++++ooooossoooooosssssssssssy")
-  print("++++oooooooooooossssoo++/////////////////////////////////////+++++++++++ooosssssyyyyssssssyyyyssssyy")
-  print("/++ooooooooo++oosssso+++//////:::::://////////////+++++++++++oooooooooooossssssyyyyyysssyyyyyyyssyyy")
-  print("//+oosssssoo++++ossoo+++//////:::::///+++++///////+++++ooooossssssssssssssssssyyyyyyyyyyyyyyyyyyyyyy")
-  print("//+ossyyyysoo+++ooooo+++++/////::::///++++/:--.```````...-::/osyyysssssssyyssyyyyyyyyyyyhhhhhhhyyyyy")
-  print("/++osyhhhyso+++++++++++/////+///::::--..`````````````````````.-/osssssyyyyyyyyyyyyyyyyyyyyhyhhhhhhyy")
-  print("/++osyhhhyso+///////+//////::/::..`````````````````````````.`.`..-:+syyyhyyyyyyyyyyyssyyyyyyyyhhyyyy")
-  print("++oosyyhhyo+/////////////-..```````````````````````````.............-+yhyyyyyyyhyyyssssyyyyyyyyyyyyy")
-  print("ooosyyyyyso+///++++++++:.`````````````````````````````................-+sysssyyyyyysssyyyyyyyyyyyyyy")
-  print("ssyyhhysso++++++oo+++/-```...````````````````````.````..................-+ssssyyyyyyyyyyyyyyyyyyyyyy")
-  print("yyyhhysso++++ooooo+/-.``.--..````````````````````.`.......................:ossssyyyyyyyyyyyysyyyyyyh")
-  print("syyhyssoo+++oooo+/-.```.:/:.``````````````````.`...........................-/ossssssyyyyyyyyssssyyyy")
-  print("syyysoo+++ooooo/-.````.-++-``````````````````....`...........................-+sssssssssyyyssssssyyy")
-  print("syysoo++++oooo:.`......:o/.```````````........................................-/osyyyyyyyyyssssssyyy")
-  print("ssssso++++ooo+-......../+-`````````...----........................------........-:+syyyyyyyyssssssss")
-  print("ssssssooooooo:.......--/+-``````.-:/+++/---......................-----------......-/syyhhhyyysssssss")
-  print("ooooooooooooo-.......-:+/`````.:oyhsshhy::------......---.-.....---.---------......-+syhyyyyssssssss")
-  print("oooooooooooso:......--:+.``````-/ohddmdho/----.......------.----::--..-----------..-+yyyyyssssssyyyy")
-  print("ooooossssyyys/-.....-:/+.``````..:+oyhho:---......-.---------::///:--...------:::-../syyysssssyyyyyy")
-  print("sooossyyhhhhys:-....-:+/````````..-:///-.........-..-----::::/+oso+/:-..-----:++/--.-+yyyyyysyyyyyyy")
-  print("soooosyhhhhhyyo:-..-::o:````````....-...............-.---:::+sydhhhy+:-..---:+so::--.:oyyyyyyyyyyyss")
-  print("sooossyyyyyyyyso/-.::/o:````````````................------::/ydmNmNmd+:-----/os+:-:---:syyyyyyyyysss")
-  print("oossssyyssssyyyys:-:/+o:.`````````````..............--.----::shhhhhys+/::--:+o+/::::---+yyyyyyyyyyss")
-  print("oossyyyyssssyyyyy+:/++/:.```````````........---------------::/+++++/:::::-:os/::-::::--+yhhhyyysssoo")
-  print("oossyyyyyysssyyyys//+/-:..````````...-----::////::::--------:-:::::::-----:yo/:--::::::+yyhhyyysooo+")
-  print("osssyyyyyyyysyyso+/++..--.```````...-::///++oosoo++//:-:-------::::------:+s+:--:///::/osyyyyyssso++")
-  print("syyyssssssssssss+:...``...````....--:/+oosyyhhhhysoo+//:::--------------:+oo//:-://///osssyyyssssooo")
-  print("yyyyssssssoossso/-.```....````.----:/+shssyhdddhddhyoo+/::---::-------::+so+++/:/++++ooooosssooossss")
-  print("yyyyyyyyyysssso/-.````....```.----:://sdhdmdddhhddddhso+/:---:::----::/+s++o++//+oooooooooosoooooooo")
-  print("yyyhhhhyhhhyyo+:..`````........-::///+oydmmmmmmNNNNmdyo+/:----:::--://+oo/ooo//+ooooooooooossoooo++o")
-  print("yyhhhhhhhhhhys+:...````.......--:://++sydmmNNNNNNNmhso+/:::---::::://+oo/+soo/::/+ossssssssssssooooo")
-  print("hhhhhhhhhhhhyo/-.``````.....----::/++syhddmNNNNmdhso++///:::--:::///+++//oss+:..-:/osyhhhhhyysssssyy")
-  print("hhhhhhhhhyyys+:-.`````......----://+syhhdddddddhhyoo++++//::---::///////:syo:.....-:oyhddddhyssssyyy")
-  print("hhhdddhhyyyyso/-.````.......---:/++ossyyyyhhhhhhysoo+++///:::--:::::::::://-.......-:+shddddhyyyyyhh")
-  print("hdddddhhyyyyyo:.`````........---://+oosyyhddhyssysso++/////::::::::::::-----........-:/shdhhhyyyyyyy")
-  print("hhddddhhhyssso:.````...```...----::::/:///++osysooooo+//////::::::::--------.........-:/shhhyyyyyyyy")
-  print("hhhhhhhhhyssss/.`````.........----::::::::::///++oooo++++//::::::-----------...--.....-:+yhhyyyyyyhh")
-  print("yyyyyyhhhyyyys:.``````.........----------:::::::://///++//::::::-------------------....-/oyhyyyhhhhh")
-  print("yyyyyyhhhhyyyo-````````........---------------------------::-------------------------..-:+shhhhhhddd")
-  print("yhhyyyyhhyyys+-````````.........---.....-------------------------------------------------/ohhhhhhdhh")
-  print("hhhhyyyyyyyys+-`````````........---........---............----------------------:--------/oyhhhhhhhh")
-  print("ddddhhhhhyyyy+-````````.....................-----..........--------------------:::------:/syyyhhhhhh")
-  print("hdddhdddhhhhy/-`````````...........````......................-----------------::::-----:/oyhhhdddddd")
-  print("hhhhhdddhhhhy/.````````...........`````......................-----------------::::-----:+yhhdddhhhhh")
-  print("hddddddhhhhhs:.```````..............``.......................----------------:::::----:+syhhddhhyyyh")
-  print("dmmmdhhhhddhs/.```````......----............................----------------::::::---:+shhhhdddhhhhd")
-  print("dmmmdhyhddddy+-.`````...---------..........................---------------:::/::::--:/shddhhhhddhhhh")
-  print("ddhyyyhhdmmmhs:.``````...----------........................---------------:///::::::/oyddhhhhhhdhyyy")
-  print("hyssyhdddddddy/..````....-----------..............------------------------:///::::::+shdddddhhhhhhyy")
-  print("hyyhdddhhhhddh/-.````...------------.......-------:::::::::::------------::///:::::/+shddmmmdhhhhhhh")
-  print("dddddhhhhhhdddo-......--:::------:--.....--::::::::::::::/:::------------:////:::://oshmmmNNmdddddhh")
-  print("ddhhhhhhhdmmNmo-....---::::::----:--....--:::::/::::::://:::------------:/+////:::/+oyddmmmmmmdmdddd")
-  print("mhyyyhhhdmmNNd+-....----:://::------...---:::::::::::::::::----------:::+ooo+//////+oydmmNNNNmmmdddh")
-  print("mdhhdddddmmNNd+-....---:::///:::::---..---::::::::::::::::-----------::/shhys++////++oydmNNNmdhhhhhh")
-  print("ddmddddhhhdNNms:-------::://///::::--------::::::::::--:---...------:::ohmdhyo++//+///+oydmNNmdddddh")
-  print("dmmmmmddhhdmmds/:------:::://////////:---:::::::::::-----.....-----:::/sdmdhyyso+++/////+sydmmmmmmmd")
-  print("dmmmmdddddddddh+:------::::://///+oss+//////////++/:---.......---::://+ymNmdhhysooo+//////+osyhdNNmm")
-  print("dddmmmmmmmmdmdhs/:------:::://///+oyhhyssssysssyys/---.......---::://+sdNNmdhhhhyso++++//////+oydNNN")
-  print("ddmmNmmmmmmdhso+/:------:::://///+oydmmmmmNNmmmmms/---.....----::://+sdNNNNdhyyyysoo+oso+/////+shmmm")
-  print("ddddddddmmdho+///:-----:::::////++oydNNNmmmNmmmNms:--....-----::////ohNNNNNmdhhhyyssssyyo+++++oshmmm")
-  print("ddhdmmmmmddyo/////:---::::::///++oshdmNmmmNNNNNNdo:---------:::////oymmmmmmmmdddddhdhhyyssssyhdmmNNN")
-  print("ddddmNNmdddhyysss+:::::::://////+oshmmmmNNMMMMMNy/-------:::::////+shddddddddddmNNNNNmdddmmmNNNNNNMM")
-  print("mmdddmmmdddmmmddmy+:::::://////++oshmNNNNNNNNNNh+:-----::::://///+ohddddddmdhhhdmmNNmmNNNmmmmmddmNNN")
+  dog1 = "hyyyyhhhhdddhhhhhhyyyyssssssssssooooo++++++++++++++++oooooo+++++++/////::://///++++++++++++/////++++"
+  dog1 += "\nyysssyyyyhhhyyyyssssssssooooooo+++++//////////////++/++++++++//++/////::::://///////++++++++++++++++"
+  dog1 += "\nssooosossssssssoooooossooo+++++/++///////////////+//////+++++/////////:::://////////++++++++++++oooo"
+  dog1 += "\nooo+++oooooooooooooosssoo+++///////////////+++//////////////////////////////++++++++++++ooooooooooss"
+  dog1 += "\n+++++++ooo+ooooooosssooo++////////////////++//////////::///////////////++++ooooossoooooosssssssssssy"
+  dog1 += "\n++++oooooooooooossssoo++/////////////////////////////////////+++++++++++ooosssssyyyyssssssyyyyssssyy"
+  dog1 += "\n/++ooooooooo++oosssso+++//////:::::://////////////+++++++++++oooooooooooossssssyyyyyysssyyyyyyyssyyy"
+  dog1 += "\n//+oosssssoo++++ossoo+++//////:::::///+++++///////+++++ooooossssssssssssssssssyyyyyyyyyyyyyyyyyyyyyy"
+  dog1 += "\n//+ossyyyysoo+++ooooo+++++/////::::///++++/:--.```````...-::/osyyysssssssyyssyyyyyyyyyyyhhhhhhhyyyyy"
+  dog1 += "\n/++osyhhhyso+++++++++++/////+///::::--..`````````````````````.-/osssssyyyyyyyyyyyyyyyyyyyyhyhhhhhhyy"
+  dog1 += "\n/++osyhhhyso+///////+//////::/::..`````````````````````````.`.`..-:+syyyhyyyyyyyyyyyssyyyyyyyyhhyyyy"
+  dog1 += "\n++oosyyhhyo+/////////////-..```````````````````````````.............-+yhyyyyyyyhyyyssssyyyyyyyyyyyyy"
+  dog1 += "\nooosyyyyyso+///++++++++:.`````````````````````````````................-+sysssyyyyyysssyyyyyyyyyyyyyy"
+  dog1 += "\nssyyhhysso++++++oo+++/-```...````````````````````.````..................-+ssssyyyyyyyyyyyyyyyyyyyyyy"
+  dog1 += "\nyyyhhysso++++ooooo+/-.``.--..````````````````````.`.......................:ossssyyyyyyyyyyyysyyyyyyh"
+  dog1 += "\nsyyhyssoo+++oooo+/-.```.:/:.``````````````````.`...........................-/ossssssyyyyyyyyssssyyyy"
+  dog1 += "\nsyyysoo+++ooooo/-.````.-++-``````````````````....`...........................-+sssssssssyyyssssssyyy"
+  dog1 += "\nsyysoo++++oooo:.`......:o/.```````````........................................-/osyyyyyyyyyssssssyyy"
+  dog1 += "\nssssso++++ooo+-......../+-`````````...----........................------........-:+syyyyyyyyssssssss"
+  dog1 += "\nssssssooooooo:.......--/+-``````.-:/+++/---......................-----------......-/syyhhhyyysssssss"
+  dog1 += "\nooooooooooooo-.......-:+/`````.:oyhsshhy::------......---.-.....---.---------......-+syhyyyyssssssss"
+  dog1 += "\noooooooooooso:......--:+.``````-/ohddmdho/----.......------.----::--..-----------..-+yyyyyssssssyyyy"
+  dog1 += "\nooooossssyyys/-.....-:/+.``````..:+oyhho:---......-.---------::///:--...------:::-../syyysssssyyyyyy"
+  dog1 += "\nsooossyyhhhhys:-....-:+/````````..-:///-.........-..-----::::/+oso+/:-..-----:++/--.-+yyyyyysyyyyyyy"
+  dog1 += "\nsoooosyhhhhhyyo:-..-::o:````````....-...............-.---:::+sydhhhy+:-..---:+so::--.:oyyyyyyyyyyyss"
+  dog1 += "\nsooossyyyyyyyyso/-.::/o:````````````................------::/ydmNmNmd+:-----/os+:-:---:syyyyyyyyysss"
+  dog1 += "\noossssyyssssyyyys:-:/+o:.`````````````..............--.----::shhhhhys+/::--:+o+/::::---+yyyyyyyyyyss"
+  dog1 += "\noossyyyyssssyyyyy+:/++/:.```````````........---------------::/+++++/:::::-:os/::-::::--+yhhhyyysssoo"
+  dog1 += "\noossyyyyyysssyyyys//+/-:..````````...-----::////::::--------:-:::::::-----:yo/:--::::::+yyhhyyysooo+"
+  dog1 += "\nosssyyyyyyyysyyso+/++..--.```````...-::///++oosoo++//:-:-------::::------:+s+:--:///::/osyyyyyssso++"
+  dog1 += "\nsyyyssssssssssss+:...``...````....--:/+oosyyhhhhysoo+//:::--------------:+oo//:-://///osssyyyssssooo"
+  dog1 += "\nyyyyssssssoossso/-.```....````.----:/+shssyhdddhddhyoo+/::---::-------::+so+++/:/++++ooooosssooossss"
+  dog1 += "\nyyyyyyyyyysssso/-.````....```.----:://sdhdmdddhhddddhso+/:---:::----::/+s++o++//+oooooooooosoooooooo"
+  dog1 += "\nyyyhhhhyhhhyyo+:..`````........-::///+oydmmmmmmNNNNmdyo+/:----:::--://+oo/ooo//+ooooooooooossoooo++o"
+  dog1 += "\nyyhhhhhhhhhhys+:...````.......--:://++sydmmNNNNNNNmhso+/:::---::::://+oo/+soo/::/+ossssssssssssooooo"
+  dog1 += "\nhhhhhhhhhhhhyo/-.``````.....----::/++syhddmNNNNmdhso++///:::--:::///+++//oss+:..-:/osyhhhhhyysssssyy"
+  dog1 += "\nhhhhhhhhhyyys+:-.`````......----://+syhhdddddddhhyoo++++//::---::///////:syo:.....-:oyhddddhyssssyyy"
+  dog1 += "\nhhhdddhhyyyyso/-.````.......---:/++ossyyyyhhhhhhysoo+++///:::--:::::::::://-.......-:+shddddhyyyyyhh"
+  dog1 += "\nhdddddhhyyyyyo:.`````........---://+oosyyhddhyssysso++/////::::::::::::-----........-:/shdhhhyyyyyyy"
+  dog1 += "\nhhddddhhhyssso:.````...```...----::::/:///++osysooooo+//////::::::::--------.........-:/shhhyyyyyyyy"
+  dog1 += "\nhhhhhhhhhyssss/.`````.........----::::::::::///++oooo++++//::::::-----------...--.....-:+yhhyyyyyyhh"
+  dog1 += "\nyyyyyyhhhyyyys:.``````.........----------:::::::://///++//::::::-------------------....-/oyhyyyhhhhh"
+  dog1 += "\nyyyyyyhhhhyyyo-````````........---------------------------::-------------------------..-:+shhhhhhddd"
+  dog1 += "\nyhhyyyyhhyyys+-````````.........---.....-------------------------------------------------/ohhhhhhdhh"
+  dog1 += "\nhhhhyyyyyyyys+-`````````........---........---............----------------------:--------/oyhhhhhhhh"
+  dog1 += "\nddddhhhhhyyyy+-````````.....................-----..........--------------------:::------:/syyyhhhhhh"
+  dog1 += "\nhdddhdddhhhhy/-`````````...........````......................-----------------::::-----:/oyhhhdddddd"
+  dog1 += "\nhhhhhdddhhhhy/.````````...........`````......................-----------------::::-----:+yhhdddhhhhh"
+  dog1 += "\nhddddddhhhhhs:.```````..............``.......................----------------:::::----:+syhhddhhyyyh"
+  dog1 += "\ndmmmdhhhhddhs/.```````......----............................----------------::::::---:+shhhhdddhhhhd"
+  dog1 += "\ndmmmdhyhddddy+-.`````...---------..........................---------------:::/::::--:/shddhhhhddhhhh"
+  dog1 += "\nddhyyyhhdmmmhs:.``````...----------........................---------------:///::::::/oyddhhhhhhdhyyy"
+  dog1 += "\nhyssyhdddddddy/..````....-----------..............------------------------:///::::::+shdddddhhhhhhyy"
+  dog1 += "\nhyyhdddhhhhddh/-.````...------------.......-------:::::::::::------------::///:::::/+shddmmmdhhhhhhh"
+  dog1 += "\ndddddhhhhhhdddo-......--:::------:--.....--::::::::::::::/:::------------:////:::://oshmmmNNmdddddhh"
+  dog1 += "\nddhhhhhhhdmmNmo-....---::::::----:--....--:::::/::::::://:::------------:/+////:::/+oyddmmmmmmdmdddd"
+  dog1 += "\nmhyyyhhhdmmNNd+-....----:://::------...---:::::::::::::::::----------:::+ooo+//////+oydmmNNNNmmmdddh"
+  dog1 += "\nmdhhdddddmmNNd+-....---:::///:::::---..---::::::::::::::::-----------::/shhys++////++oydmNNNmdhhhhhh"
+  dog1 += "\nddmddddhhhdNNms:-------::://///::::--------::::::::::--:---...------:::ohmdhyo++//+///+oydmNNmdddddh"
+  dog1 += "\ndmmmmmddhhdmmds/:------:::://////////:---:::::::::::-----.....-----:::/sdmdhyyso+++/////+sydmmmmmmmd"
+  dog1 += "\ndmmmmdddddddddh+:------::::://///+oss+//////////++/:---.......---::://+ymNmdhhysooo+//////+osyhdNNmm"
+  dog1 += "\ndddmmmmmmmmdmdhs/:------:::://///+oyhhyssssysssyys/---.......---::://+sdNNmdhhhhyso++++//////+oydNNN"
+  dog1 += "\nddmmNmmmmmmdhso+/:------:::://///+oydmmmmmNNmmmmms/---.....----::://+sdNNNNdhyyyysoo+oso+/////+shmmm"
+  dog1 += "\nddddddddmmdho+///:-----:::::////++oydNNNmmmNmmmNms:--....-----::////ohNNNNNmdhhhyyssssyyo+++++oshmmm"
+  dog1 += "\nddhdmmmmmddyo/////:---::::::///++oshdmNmmmNNNNNNdo:---------:::////oymmmmmmmmdddddhdhhyyssssyhdmmNNN"
+  dog1 += "\nddddmNNmdddhyysss+:::::::://////+oshmmmmNNMMMMMNy/-------:::::////+shddddddddddmNNNNNmdddmmmNNNNNNMM"
+  dog1 += "\nmmdddmmmdddmmmddmy+:::::://////++oshmNNNNNNNNNNh+:-----::::://///+ohddddddmdhhhdmmNNmmNNNmmmmmddmNNN"
+  return dog1
 
-  
 def dog2():
-  print("mmmmmmmmdddhhhhhyyyyyyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyy")
-  print("NNNmmmmmddddhhhhhyyyyyyyysssssssssssssssssssssssssssssssssssssssssssssssssssssssyysssyyyssyyyyyyyyyy")
-  print("NNNNNmmmdddddhhhhhyyyyyyyyyyyyyssssssssssssssssssssssssssssssssssssssssssssyyyyyyyyyyyyyyyyyyyyyyyyy")
-  print("NNNNNNmmmddddddhhhhyyyyyyyyyyyyyyyyyyyyyyyssssssssssyyyssssssssssssssssssyyyyyyyyyyyyyyyyyyyyyyyyyyy")
-  print("NNNNNNNNmmmmmdddhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysssssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy")
-  print("mmmNNNNNNNmmmmmddddhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy")
-  print("yyyyyyhhhdddmmmmmmmdddddddhhhhhhhhhhyyhhyyyhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy")
-  print("hyyso+++++++oossyyyhhdddddddddddddhhyysyyyyyyhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy")
-  print("yysoo++///:::::::::///+++ossyyyso+////////////++++++oo++++++ooossyyyyhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyy")
-  print("soo++///::::::::::::--::::::::::::://++////////++++o+///+++////++//+osyhhhhhhhhhyyyyyyyyyyyyyhhhyyyy")
-  print("so+///:::::-----------:---::////:://///::////+oo/:::::/+ss+////++++////+syhhhhhhhhhhhhhhhhhhhhhhhhhh")
-  print("so+//::-----------------:/osoo/::////:::://///+s:..-:/+sy++++++++++o++++/+shdddddddddhhhhhhhhhhhhhhh")
-  print("so+//::--------------:::+syys+/:::::::::::///+++/.-:/+oy++////++/++++o+++++/+oosyhhhdddddddddddddddd")
-  print("so+//::-----------::::/+syhy+/::::::::::::://+oo/-::/+so++//////+/+++++ooosso+///++ooosssyyhhhhdddmm")
-  print("so+/:::----------/////+syhdo/::::::::/::---::/+o/:://+s++/////////++++++osyhyso//+++/////+++++oossyy")
-  print("o+//::::--------/+++/+syhds/::::///+++/::---::/+/-://oo/::::::///////+++osyddhyo/+oo+/::////////++++")
-  print("o+//::--------:/+++//shddy/::::://++oo/::::::::::--/++/:::::::/+oo++//++ooydmdhyo+ooso//:///////////")
-  print("o+//::------:://++//ohddh+::::/++oooo+////++//:--..:+///:::////+sssoo++++osdNmdhsossyys+/::::///++//")
-  print("o+//::----:://+/++/+yhhds::/+hmNNNmdho///++o++:....-::////++++osssoo++++++oyNmmdyossyhys+/:::::////o")
-  print("s++/::---//++/+++//syhhd+::+yddhddNNmho+++o++/-.``..--://++ooooyyyyyyoo+ooosmNmdhossyyyyso/:::////+s")
-  print("so+/:::-:++o+//+/:oyyhds/::/sdmddmNmmdhysoo+/-.```....-:/oosssymmNNNNNmhssoodNmdhsosyyyyyys+//////oh")
-  print("yo+//::-:+ooo+//:/syyhdo/:::/ydmNNNNmdhsoo/:-..```....-:+syyhdmmmNmNNmNNdsosdNmmdyosyyyyyyysso+//+yd")
-  print("yso+/::-:+sso+//:+syyhd+:::::/ossysyyyy+/:-..`````.....-+ssyhmNNMNNNNNNmhsoymNmmdyosyyyyyyyyyso++shm")
-  print("yso+/::--/osoo+/:+syyhh/:--:::://///+++:-..````````....-/ossshmmmmNNNmdyossydNmdhyossyyyyyyhhysooydN")
-  print("yso+/:::--/sso+/:+ssyhd/----::::::://::.```````````....--/+ooyysssyyyysoooosdmddhyossyyysyhhhysoshmN")
-  print("yso+//:::-:/oo+/:/ssyym+:----::::::::-.````..```````......-/+ooo++oooooo+++odmdhhyosysssyyhhhysoydNN")
-  print("yso+//:::--:/o+/:/ssyydy:----::::----.`````.```````..-.....:/++++++++oo++++oddhhysosysssyyhhhyoohmNM")
-  print("yso++//::::-:/++/:oyyyhyo---------..```````````......---...-///+++oo+++++++ymdhhyosyysssyyhhyoohmNNM")
-  print("hyso++//::::--://:+syhhho:-------..`````````..........--...-::://+++++++++odmdhyosyysssyyyyyosdNNNMM")
-  print("mdhyso++///::--::::syhhy/----.-..``````...--:://////::--.....--::///////+odmddyssyyysssyyysosmNMMMMM")
-  print("NNmddhysso+//::::::/yhds/:---....````..-:+osyyysssssso+/:......-::://////odmdysyyyyysssyysosmNNNNNNN")
-  print("mmdddhhhyyssoo++//::oydh/:::-...````..:+syhddmmmmmmdddhys/-.....-:::::///+ddhsyhhyyssssssoymMMMNNNNN")
-  print("ddhhyyyyssssssoooo/::shh+/:-:-.`````.:sshddmmmmmNmmmNmmmdy+:-...-::::///+sdhsshhyyysoosoohNMMMMMNNNN")
-  print("hhyyysssooooo+++++/:::ohs/:-::.`````-+syhmmNNmmmmmmNNNNmmdy---...-::/+///shsshhhyyysooosdNMMMMMMNNNN")
-  print("hyyssoooo+++++++++/-:::os:---:.````../yhmNMMMNmmmmNMMNmmmds:-.....-://:::ssoyhhyyyssosymMMMMMMMNNNNN")
-  print("yyssoooo++++///////--:-:+-----`````..-+ydmNNNddmmmNMMMNmmh/:-.....-::::-:sosyyyyyysssshNMMMMMNNNNNNN")
-  print("yssooo++++/////////:---:/---:-.````..--/shddhdmNmmNNmmmhs/::-.....------:sssyyyyyysssoymNNMMMNNNNNNN")
-  print("ysooo++++///////////:--------:-````..--:/sdmmmmNmmmmmmy+//:-......------:sssyyyyyssoooshmNNMNNNNNNNN")
-  print("soo++++/////////////:/:------:-.```...-::/+yhdmNmmdhyo+//::-.....------.-+sssyysssoo++sydmNNNNNNNNNN")
-  print("oo+++/////////////////::---:::-.`````..-:/+osyhddhyso++/:--..........-...-/ossssoo+++osyhmNNNNNmmmmm")
-  print("++////////////////////:------..```-.``..-:/++oshyooo++/:---..--............-/+oo++/+ssssydmNNNmmmmmm")
-  print("/////////////////////:-....```````.::--.-:/+ssyddso++//:---::-...............--:::/ossssyhmmmmmmmmmd")
-  print("////////////////////::-.```````````.::/::+osyhhddyyyyyyysos+:..`.................-+sssssyhdmmmmmdddd")
-  print("////////////////////::-`````````````.-.::/+sssyhhossssssso/....`.................:+sssssyhdmmmmddddd")
-  print("::///:::///////////::--`````````````-/.://+ooosyyooooooooo+...``................-:oosssyhddmdddddddd")
-  print("::::::::///////////::--`````````````.::///+++ooss++ooooooo+/.``...`...```.......-/oosssyhddddddddddh")
-  print("::::::::://///::///::-.`````````````-://++++++ooo+++ooooooo+-`...```````........-+ooossyhddhhddddhhh")
-  print(":::::::///////::://::-.````````````.:///++++++ooo++++ooooooo:..`````````.......-:+ooossyhhhhhddhhhyy")
-  print(":::::////:::::://///:.`````````````-///++o++++ooo++++ooooooo/```````````.......-/oooossyhhhhhhhhyyys")
-  print("::::://:::::///////:-.`````````````-:/+++oooooooo++++ooooooo/``````````........:+oooossyyyyyssssoooo")
-  print("::::::::::::///:::::-.`````````````-:/++oooooooso+++++++oo+o:``````````........:+ooosssooo++++++++++")
-  print(":::::::::::///:::::/:.`````````````.//+ooooooooooo+o++++++++-`````````.........-/oooo++++/////////++")
-  print(":::::::::////::::///::.`````````````:++ooooooooooo+o++++++++````````......``...-+ooo+/:::::----://++")
-  print(":::--:://////::://////:-````````````./+oooooooooooooo++//+/.```...``````````...-+ooo+/:---......-::-")
-  print("::--:://////::::///////:.````````````.:++++oo++o+/++//////-``....```````````...:+ossss+:-...........")
-  print("::-:::////::::::::////:-.``````````````.-//++++////+:///:.``...````````````....:+ssyyhs/-...........")
-  print(":-::::::::::::---:////:.``````````````````..-....-::::-.```..```````````````..-:osyyyhyo/-..........")
-  print("-::::::::--::----::///:.```````````````````````````````````````````````````...-/oossoo++//:-----....")
-  print(":::::://::::------::///.``````.........``````````````````````....```````......-:-:////////:::-------")
-  print("::::::////:------::////-``````.....-:/:-.`````.````````................``........-://::::::---:://oo")
-  print(":::::::/+/:-----:::////-``````....-:+++//-.```...```.......-----.....```````.....-:::::-----:/+ossss")
-  print("-----::////:-----::://:.``````...-:++++////:-........--://+++++++/-.```````````..----------:+osyssso")
-  print("-------::///:-----:::/:.``````..-:+o++++/////:--://////+++++++oooo:.``````````..---------:/ossssssso")
-  print(":::::-----::::-----:::-``````...-/oo+++////////////////+++++++oooo+-.```````....-::/:::/+osssssssooo")
-  print("::--:--------::---::/-.``````..-:+o+++////////////////+++++++++++oo:.``````.....:+ssssoossssssoooooo")
-  print(":--::-------------::-.```````..-:+o+//////////////////////++++++ooo/-`````......:osyyssooooooooooooo")
-  print("::::::-----------:--.````````..-/oo+////::::::://///////////++++++o/.````......-/sssssoosooossoooooo")
-  print(":::::::::---------.``````````..-/o+/:::::::::////////////////++++++:.`````.....:+ssooooooooooooooo++")
-  print("/////:::::::::--.`````````````.-://::::::::::://::::/::///////+++++-`````......:ossoooooooooo+++++++")
-  print(":::////////::::.`````````````..-:::::---::--::::::::::://///////++/.`````.....-/ooooooooooo+++++++++")
-  print("::::://///////:.`````````````.:/::::::::::--::::::::::::::///////+/.````......-/ooooooooo++++++///++")
-  print("::::://///////:.````````````.-:::----:::::::::::::::::::::://////+/-.```......-/osssoooo+++++++//++/")
-  print("---::::////+++/-.``````````.-::::::::::::::::::::::::::::::::::///:.``````....-/ssssooo+++//////+++/")
-  print("----::::////+++:.`````....-:///:::::::/:::/:::::::///::://::::///:.`````````..-/ossso++++++/////////")
-  print("..----::::///+o+/-----://////////////////++//////////////////////:-.````````..-:+ysso+++/++/////////")
-
+  dog2 = "mmmmmmmmdddhhhhhyyyyyyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyy"
+  dog2 += "\nNNNmmmmmddddhhhhhyyyyyyyysssssssssssssssssssssssssssssssssssssssssssssssssssssssyysssyyyssyyyyyyyyyy"
+  dog2 += "\nNNNNNmmmdddddhhhhhyyyyyyyyyyyyyssssssssssssssssssssssssssssssssssssssssssssyyyyyyyyyyyyyyyyyyyyyyyyy"
+  dog2 += "\nNNNNNNmmmddddddhhhhyyyyyyyyyyyyyyyyyyyyyyyssssssssssyyyssssssssssssssssssyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  dog2 += "\nNNNNNNNNmmmmmdddhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysssssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  dog2 += "\nmmmNNNNNNNmmmmmddddhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  dog2 += "\nyyyyyyhhhdddmmmmmmmdddddddhhhhhhhhhhyyhhyyyhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  dog2 += "\nhyyso+++++++oossyyyhhdddddddddddddhhyysyyyyyyhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  dog2 += "\nyysoo++///:::::::::///+++ossyyyso+////////////++++++oo++++++ooossyyyyhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  dog2 += "\nsoo++///::::::::::::--::::::::::::://++////////++++o+///+++////++//+osyhhhhhhhhhyyyyyyyyyyyyyhhhyyyy"
+  dog2 += "\nso+///:::::-----------:---::////:://///::////+oo/:::::/+ss+////++++////+syhhhhhhhhhhhhhhhhhhhhhhhhhh"
+  dog2 += "\nso+//::-----------------:/osoo/::////:::://///+s:..-:/+sy++++++++++o++++/+shdddddddddhhhhhhhhhhhhhhh"
+  dog2 += "\nso+//::--------------:::+syys+/:::::::::::///+++/.-:/+oy++////++/++++o+++++/+oosyhhhdddddddddddddddd"
+  dog2 += "\nso+//::-----------::::/+syhy+/::::::::::::://+oo/-::/+so++//////+/+++++ooosso+///++ooosssyyhhhhdddmm"
+  dog2 += "\nso+/:::----------/////+syhdo/::::::::/::---::/+o/:://+s++/////////++++++osyhyso//+++/////+++++oossyy"
+  dog2 += "\no+//::::--------/+++/+syhds/::::///+++/::---::/+/-://oo/::::::///////+++osyddhyo/+oo+/::////////++++"
+  dog2 += "\no+//::--------:/+++//shddy/::::://++oo/::::::::::--/++/:::::::/+oo++//++ooydmdhyo+ooso//:///////////"
+  dog2 += "\no+//::------:://++//ohddh+::::/++oooo+////++//:--..:+///:::////+sssoo++++osdNmdhsossyys+/::::///++//"
+  dog2 += "\no+//::----:://+/++/+yhhds::/+hmNNNmdho///++o++:....-::////++++osssoo++++++oyNmmdyossyhys+/:::::////o"
+  dog2 += "\ns++/::---//++/+++//syhhd+::+yddhddNNmho+++o++/-.``..--://++ooooyyyyyyoo+ooosmNmdhossyyyyso/:::////+s"
+  dog2 += "\nso+/:::-:++o+//+/:oyyhds/::/sdmddmNmmdhysoo+/-.```....-:/oosssymmNNNNNmhssoodNmdhsosyyyyyys+//////oh"
+  dog2 += "\nyo+//::-:+ooo+//:/syyhdo/:::/ydmNNNNmdhsoo/:-..```....-:+syyhdmmmNmNNmNNdsosdNmmdyosyyyyyyysso+//+yd"
+  dog2 += "\nyso+/::-:+sso+//:+syyhd+:::::/ossysyyyy+/:-..`````.....-+ssyhmNNMNNNNNNmhsoymNmmdyosyyyyyyyyyso++shm"
+  dog2 += "\nyso+/::--/osoo+/:+syyhh/:--:::://///+++:-..````````....-/ossshmmmmNNNmdyossydNmdhyossyyyyyyhhysooydN"
+  dog2 += "\nyso+/:::--/sso+/:+ssyhd/----::::::://::.```````````....--/+ooyysssyyyysoooosdmddhyossyyysyhhhysoshmN"
+  dog2 += "\nyso+//:::-:/oo+/:/ssyym+:----::::::::-.````..```````......-/+ooo++oooooo+++odmdhhyosysssyyhhhysoydNN"
+  dog2 += "\nyso+//:::--:/o+/:/ssyydy:----::::----.`````.```````..-.....:/++++++++oo++++oddhhysosysssyyhhhyoohmNM"
+  dog2 += "\nyso++//::::-:/++/:oyyyhyo---------..```````````......---...-///+++oo+++++++ymdhhyosyysssyyhhyoohmNNM"
+  dog2 += "\nhyso++//::::--://:+syhhho:-------..`````````..........--...-::://+++++++++odmdhyosyysssyyyyyosdNNNMM"
+  dog2 += "\nmdhyso++///::--::::syhhy/----.-..``````...--:://////::--.....--::///////+odmddyssyyysssyyysosmNMMMMM"
+  dog2 += "\nNNmddhysso+//::::::/yhds/:---....````..-:+osyyysssssso+/:......-::://////odmdysyyyyysssyysosmNNNNNNN"
+  dog2 += "\nmmdddhhhyyssoo++//::oydh/:::-...````..:+syhddmmmmmmdddhys/-.....-:::::///+ddhsyhhyyssssssoymMMMNNNNN"
+  dog2 += "\nddhhyyyyssssssoooo/::shh+/:-:-.`````.:sshddmmmmmNmmmNmmmdy+:-...-::::///+sdhsshhyyysoosoohNMMMMMNNNN"
+  dog2 += "\nhhyyysssooooo+++++/:::ohs/:-::.`````-+syhmmNNmmmmmmNNNNmmdy---...-::/+///shsshhhyyysooosdNMMMMMMNNNN"
+  dog2 += "\nhyyssoooo+++++++++/-:::os:---:.````../yhmNMMMNmmmmNMMNmmmds:-.....-://:::ssoyhhyyyssosymMMMMMMMNNNNN"
+  dog2 += "\nyyssoooo++++///////--:-:+-----`````..-+ydmNNNddmmmNMMMNmmh/:-.....-::::-:sosyyyyyysssshNMMMMMNNNNNNN"
+  dog2 += "\nyssooo++++/////////:---:/---:-.````..--/shddhdmNmmNNmmmhs/::-.....------:sssyyyyyysssoymNNMMMNNNNNNN"
+  dog2 += "\nysooo++++///////////:--------:-````..--:/sdmmmmNmmmmmmy+//:-......------:sssyyyyyssoooshmNNMNNNNNNNN"
+  dog2 += "\nsoo++++/////////////:/:------:-.```...-::/+yhdmNmmdhyo+//::-.....------.-+sssyysssoo++sydmNNNNNNNNNN"
+  dog2 += "\noo+++/////////////////::---:::-.`````..-:/+osyhddhyso++/:--..........-...-/ossssoo+++osyhmNNNNNmmmmm"
+  dog2 += "\n++////////////////////:------..```-.``..-:/++oshyooo++/:---..--............-/+oo++/+ssssydmNNNmmmmmm"
+  dog2 += "\n/////////////////////:-....```````.::--.-:/+ssyddso++//:---::-...............--:::/ossssyhmmmmmmmmmd"
+  dog2 += "\n////////////////////::-.```````````.::/::+osyhhddyyyyyyysos+:..`.................-+sssssyhdmmmmmdddd"
+  dog2 += "\n////////////////////::-`````````````.-.::/+sssyhhossssssso/....`.................:+sssssyhdmmmmddddd"
+  dog2 += "\n::///:::///////////::--`````````````-/.://+ooosyyooooooooo+...``................-:oosssyhddmdddddddd"
+  dog2 += "\n::::::::///////////::--`````````````.::///+++ooss++ooooooo+/.``...`...```.......-/oosssyhddddddddddh"
+  dog2 += "\n::::::::://///::///::-.`````````````-://++++++ooo+++ooooooo+-`...```````........-+ooossyhddhhddddhhh"
+  dog2 += "\n:::::::///////::://::-.````````````.:///++++++ooo++++ooooooo:..`````````.......-:+ooossyhhhhhddhhhyy"
+  dog2 += "\n:::::////:::::://///:.`````````````-///++o++++ooo++++ooooooo/```````````.......-/oooossyhhhhhhhhyyys"
+  dog2 += "\n::::://:::::///////:-.`````````````-:/+++oooooooo++++ooooooo/``````````........:+oooossyyyyyssssoooo"
+  dog2 += "\n::::::::::::///:::::-.`````````````-:/++oooooooso+++++++oo+o:``````````........:+ooosssooo++++++++++"
+  dog2 += "\n:::::::::::///:::::/:.`````````````.//+ooooooooooo+o++++++++-`````````.........-/oooo++++/////////++"
+  dog2 += "\n:::::::::////::::///::.`````````````:++ooooooooooo+o++++++++````````......``...-+ooo+/:::::----://++"
+  dog2 += "\n:::--:://////::://////:-````````````./+oooooooooooooo++//+/.```...``````````...-+ooo+/:---......-::-"
+  dog2 += "\n::--:://////::::///////:.````````````.:++++oo++o+/++//////-``....```````````...:+ossss+:-..........."
+  dog2 += "\n::-:::////::::::::////:-.``````````````.-//++++////+:///:.``...````````````....:+ssyyhs/-..........."
+  dog2 += "\n:-::::::::::::---:////:.``````````````````..-....-::::-.```..```````````````..-:osyyyhyo/-.........."
+  dog2 += "\n-::::::::--::----::///:.```````````````````````````````````````````````````...-/oossoo++//:-----...."
+  dog2 += "\n:::::://::::------::///.``````.........``````````````````````....```````......-:-:////////:::-------"
+  dog2 += "\n::::::////:------::////-``````.....-:/:-.`````.````````................``........-://::::::---:://oo"
+  dog2 += "\n:::::::/+/:-----:::////-``````....-:+++//-.```...```.......-----.....```````.....-:::::-----:/+ossss"
+  dog2 += "\n-----::////:-----::://:.``````...-:++++////:-........--://+++++++/-.```````````..----------:+osyssso"
+  dog2 += "\n-------::///:-----:::/:.``````..-:+o++++/////:--://////+++++++oooo:.``````````..---------:/ossssssso"
+  dog2 += "\n:::::-----::::-----:::-``````...-/oo+++////////////////+++++++oooo+-.```````....-::/:::/+osssssssooo"
+  dog2 += "\n::--:--------::---::/-.``````..-:+o+++////////////////+++++++++++oo:.``````.....:+ssssoossssssoooooo"
+  dog2 += "\n:--::-------------::-.```````..-:+o+//////////////////////++++++ooo/-`````......:osyyssooooooooooooo"
+  dog2 += "\n::::::-----------:--.````````..-/oo+////::::::://///////////++++++o/.````......-/sssssoosooossoooooo"
+  dog2 += "\n:::::::::---------.``````````..-/o+/:::::::::////////////////++++++:.`````.....:+ssooooooooooooooo++"
+  dog2 += "\n/////:::::::::--.`````````````.-://::::::::::://::::/::///////+++++-`````......:ossoooooooooo+++++++"
+  dog2 += "\n:::////////::::.`````````````..-:::::---::--::::::::::://///////++/.`````.....-/ooooooooooo+++++++++"
+  dog2 += "\n::::://///////:.`````````````.:/::::::::::--::::::::::::::///////+/.````......-/ooooooooo++++++///++"
+  dog2 += "\n::::://///////:.````````````.-:::----:::::::::::::::::::::://////+/-.```......-/osssoooo+++++++//++/"
+  dog2 += "\n---::::////+++/-.``````````.-::::::::::::::::::::::::::::::::::///:.``````....-/ssssooo+++//////+++/"
+  dog2 += "\n----::::////+++:.`````....-:///:::::::/:::/:::::::///::://::::///:.`````````..-/ossso++++++/////////"
+  dog2 += "\n..----::::///+o+/-----://////////////////++//////////////////////:-.````````..-:+ysso+++/++/////////"
+  return dog2
   
 def packageInfo():
   info = f"Name: {name}"
