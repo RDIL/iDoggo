@@ -11,16 +11,20 @@ You should then have the library on your computer!
 
 ## Using  
 To use, you need to add the following line to the top of any Python file you will be using the library in:  
-```  
+```py  
 import iDoggo  
 ```  
 Then you can use any of the following commands:  
-```  
-# Print dog #1:  
-iDoggo.dog1()  
+```py  
+import iDoggo
 
-# Print dog #2:  
-iDoggo.dog2()  
+# Dog1
+dog = iDoggo.dog1()
+print(dog)
+
+# Dog2
+dog2 = iDoggo.dog2()
+print(dog2)
 
 # Get package info:  
 print(iDoggo.packageInfo())
