@@ -28,5 +28,6 @@ print(dog2)
 
 # Get package info:  
 print(iDoggo.packageInfo())
-```  
+```
+
 And that should work.  Make sure to visit our [Issue Tracker](https://github.com/RDIL/iDoggo/issues) if you find any bugs!  
