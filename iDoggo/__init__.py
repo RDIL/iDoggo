@@ -3,7 +3,7 @@
 # Package info variables: 
 name = "iDoggo"
 author = "https://github.com/RDIL"
-author_email = "contactspaceboom@gmail.com"
+author_email = "me@rdil.rocks"
 description = "Text dog library on PyPI!"
 
 
