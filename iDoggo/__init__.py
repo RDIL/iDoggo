@@ -7,8 +7,13 @@ author_email = "me@rdil.rocks"
 description = "Text dog library on PyPI!"
 
 
-def dog1():
-  dog1 = "hyyyyhhhhdddhhhhhhyyyyssssssssssooooo++++++++++++++++oooooo+++++++/////::://///++++++++++++/////++++"
+def dog1() -> str:
+  """
+  Gets you dog number 1
+  :return: dog1
+  :rtype: str
+  """
+  dog1 = "\nhyyyyhhhhdddhhhhhhyyyyssssssssssooooo++++++++++++++++oooooo+++++++/////::://///++++++++++++/////++++"
   dog1 += "\nyysssyyyyhhhyyyyssssssssooooooo+++++//////////////++/++++++++//++/////::::://///////++++++++++++++++"
   dog1 += "\nssooosossssssssoooooossooo+++++/++///////////////+//////+++++/////////:::://////////++++++++++++oooo"
   dog1 += "\nooo+++oooooooooooooosssoo+++///////////////+++//////////////////////////////++++++++++++ooooooooooss"
@@ -77,8 +82,14 @@ def dog1():
   dog1 += "\nmmdddmmmdddmmmddmy+:::::://////++oshmNNNNNNNNNNh+:-----::::://///+ohddddddmdhhhdmmNNmmNNNmmmmmddmNNN"
   return dog1
 
-def dog2():
-  dog2 = "mmmmmmmmdddhhhhhyyyyyyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyy"
+
+def dog2() -> str:
+  """
+  Gets you dog number 1
+  :return: dog1
+  :rtype: str
+  """
+  dog2 = "\nmmmmmmmmdddhhhhhyyyyyyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyy"
   dog2 += "\nNNNmmmmmddddhhhhhyyyyyyyysssssssssssssssssssssssssssssssssssssssssssssssssssssssyysssyyyssyyyyyyyyyy"
   dog2 += "\nNNNNNmmmdddddhhhhhyyyyyyyyyyyyyssssssssssssssssssssssssssssssssssssssssssssyyyyyyyyyyyyyyyyyyyyyyyyy"
   dog2 += "\nNNNNNNmmmddddddhhhhyyyyyyyyyyyyyyyyyyyyyyyssssssssssyyyssssssssssssssssssyyyyyyyyyyyyyyyyyyyyyyyyyyy"
@@ -154,6 +165,7 @@ def dog2():
   dog2 += "\n----::::////+++:.`````....-:///:::::::/:::/:::::::///::://::::///:.`````````..-/ossso++++++/////////"
   dog2 += "\n..----::::///+o+/-----://////////////////++//////////////////////:-.````````..-:+ysso+++/++/////////"
   return dog2
+  
   
 def packageInfo():
   info = f"Name: {name}"
