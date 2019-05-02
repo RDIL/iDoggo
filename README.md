@@ -1,10 +1,10 @@
 # iDoggo
 *Text dog library on PyPI!*  
-[![Build Status](https://travis-ci.com/RDIL/iDoggo.svg?branch=master)](https://travis-ci.com/RDIL/iDoggo) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![Known Vulnerabilities](https://snyk.io/test/github/RDIL/iDoggo/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/RDIL/iDoggo?targetFile=requirements.txt) ![](https://img.shields.io/badge/license-MIT-green.svg) [![PyPi Project Version](https://badge.fury.io/py/iDoggo.svg)](https://pypi.org/project/iDoggo)  [![CodeFactor](https://www.codefactor.io/repository/github/rdil/idoggo/badge)](https://www.codefactor.io/repository/github/rdil/idoggo)  
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![Known Vulnerabilities](https://snyk.io/test/github/RDIL/iDoggo/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/RDIL/iDoggo?targetFile=requirements.txt) ![](https://img.shields.io/badge/license-MIT-green.svg) [![PyPI Project Version](https://badge.fury.io/py/iDoggo.svg)](https://pypi.org/project/iDoggo)  
 
 ## Installing  
 To install, first open up a terminal and type the following:  
-```  
+```
 pip install --upgrade iDoggo  
 ```  
 You should then have the library on your computer!  
