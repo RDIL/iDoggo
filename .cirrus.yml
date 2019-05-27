@@ -4,4 +4,4 @@ build_task:
   prep_script: python3 -m pip install --upgrade setuptools wheel
   script: python3 setup.py sdist bdist_wheel
   setuptools_artifacts:
-    path: dist\**
+    path: dist/**
