@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="iDoggo",
-    version="2.0.0",
+    version="2.1.0",
     author="RDIL",
     author_email="me@rdil.rocks",
     description="Text dog library in Python!",
@@ -32,8 +32,8 @@ setuptools.setup(
         'Natural Language :: English',
     ],
     project_urls={
-        "Bug Tracker": "https://github.com/RDIL/iDoggo/issues",
-        "Source Code": "https://github.com/RDIL/iDoggo",
-        "Documentation": "https://github.com/RDIL/iDoggo/blob/master/README.md#installing"
+        "Bug Tracker": "https://github.com/TheICC/iDoggo/issues",
+        "Source Code": "https://github.com/TheICC/iDoggo",
+        "Documentation": "https://github.com/TheICC/iDoggo/blob/master/README.md"
     }
 )
