@@ -1,6 +1,6 @@
 # iDoggo
 *Text dog library on PyPI!*  
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![PyPI Project Version](https://badge.fury.io/py/iDoggo.svg)](https://pypi.org/project/iDoggo)  
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive) [![PyPI Project Version](https://badge.fury.io/py/iDoggo.svg)](https://pypi.org/project/iDoggo)  
 
 ## Installing  
 To install, first open up a terminal and type the following:  
@@ -30,4 +30,4 @@ print(dog2)
 print(iDoggo.packageInfo())
 ```
 
-And that should work.  Make sure to visit our [Issue Tracker](https://github.com/RDIL/iDoggo/issues) if you find any bugs!  
+And that should work.  Make sure to visit our [Issue Tracker](https://github.com/TheICC/iDoggo/issues) if you find any bugs!  
