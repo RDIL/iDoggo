@@ -13,8 +13,8 @@ bot = commands.Bot(command_prefix="!")
 
 @bot.commands(pass_context=True)
 async def dog1(ctx):
-     doggo = iDoggo.dog1()
-     await bot.say(doggo)
+    doggo = iDoggo.dog1()
+    await bot.say(doggo)
  
- token = "xxxxxxxxxxxxxxxxxxxxxxxx"
- bot.run(token)
+token = "xxxxxxxxxxxxxxxxxxxxxxxx"
+bot.run(token)
