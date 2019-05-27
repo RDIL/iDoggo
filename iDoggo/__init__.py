@@ -7,7 +7,7 @@ author_email = "me@rdil.rocks"
 description = "Text dog library on PyPI!"
 
 
-def dog1() -> str:
+def dog1():
   """
   Gets you dog number 1
   :return: dog1
@@ -83,10 +83,10 @@ def dog1() -> str:
   return dog1
 
 
-def dog2() -> str:
+def dog2():
   """
-  Gets you dog number 1
-  :return: dog1
+  Gets you dog number 2
+  :return: dog2
   :rtype: str
   """
   dog2 = "\nmmmmmmmmdddhhhhhyyyyyyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyy"
@@ -168,8 +168,8 @@ def dog2() -> str:
   
   
 def packageInfo():
-  info = f"Name: {name}"
-  info += f"\nAuthor: {author}"
+  info = "Name: {}".format(name)
+  info += f"\nAuthor: {0}".format(author)
   info += f"\nAuthor Email: {author_email}"
   info += f"\nDescription: {description}"
   return info
