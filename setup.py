@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="iDoggo",
-    version="1.0.2",
+    version="2.0.0",
     author="RDIL",
     author_email="me@rdil.rocks",
     description="Text dog library in Python!",
